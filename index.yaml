@@ -2,6 +2,21 @@ apiVersion: v1
 entries:
   alert-manager:
   - apiVersion: v2
+    appVersion: 0.3.2
+    created: "2023-11-10T08:38:36.609351787Z"
+    description: Alert Manager
+    digest: 89926daf838d417522a67f214935fb77a24308ee04d3e23ae420a5a2ec2080bd
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: alert-manager
+    type: application
+    urls:
+    - https://charts.slums.io/alert-manager-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
     appVersion: 0.3.1
     created: "2023-11-09T14:32:43.634756326Z"
     description: Alert Manager
@@ -16,4 +31,4 @@ entries:
     urls:
     - https://charts.slums.io/alert-manager-0.3.1.tgz
     version: 0.3.1
-generated: "2023-11-09T14:32:43.634322711Z"
+generated: "2023-11-10T08:38:36.608851066Z"
