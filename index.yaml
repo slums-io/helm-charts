@@ -48,6 +48,21 @@ entries:
     version: 0.3.1
   crash-alert:
   - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2024-02-17T10:07:39.795292246Z"
+    description: Crash Alert
+    digest: c0d462fc7855a166f2564ec970752c757230485874583cb19d5d5579598edcf0
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: crash-alert
+    type: application
+    urls:
+    - https://charts.slums.io/crash-alert-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 0.1.1
     created: "2024-02-17T09:59:42.710539984Z"
     description: Crash Alert
@@ -77,4 +92,4 @@ entries:
     urls:
     - https://charts.slums.io/crash-alert-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-17T09:59:42.710097587Z"
+generated: "2024-02-17T10:07:39.794820541Z"
