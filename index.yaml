@@ -46,4 +46,20 @@ entries:
     urls:
     - https://charts.slums.io/alert-manager-0.3.1.tgz
     version: 0.3.1
-generated: "2023-12-07T11:49:53.164689344Z"
+  crash-alert:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-02-17T09:41:52.664238272Z"
+    description: Crash Alert
+    digest: a665ccae01ef03c160b052c34f99d921535c29596f43de2f34432b3c4e30c98e
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: crash-alert
+    type: application
+    urls:
+    - https://charts.slums.io/crash-alert-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-17T09:41:52.663813365Z"
