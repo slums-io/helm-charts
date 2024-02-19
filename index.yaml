@@ -137,4 +137,20 @@ entries:
     urls:
     - https://charts.slums.io/crash-alert-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-19T16:01:21.230095366Z"
+  cron-cleaner:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2024-02-19T16:14:46.238892828Z"
+    description: Cron Cleaner
+    digest: 113d90fcf5cff2929df98d9a365277738e4c591a1de0b1711a5172210c3655dd
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: cron-cleaner
+    type: application
+    urls:
+    - https://charts.slums.io/cron-cleaner-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-02-19T16:14:46.23846392Z"
