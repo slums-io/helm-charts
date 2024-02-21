@@ -229,6 +229,21 @@ entries:
     version: 0.1.0
   cron-cleaner:
   - apiVersion: v2
+    appVersion: 0.2.2
+    created: "2024-02-21T10:19:38.834844287Z"
+    description: Cron Cleaner
+    digest: 001c925a1124333f74d037f61c658abc3dc54fa22cc9d57c861ac109b5d9ecc7
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: cron-cleaner
+    type: application
+    urls:
+    - https://charts.slums.io/cron-cleaner-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
     appVersion: 0.2.1
     created: "2024-02-19T18:48:39.223816776Z"
     description: Cron Cleaner
@@ -258,4 +273,4 @@ entries:
     urls:
     - https://charts.slums.io/cron-cleaner-0.2.0.tgz
     version: 0.2.0
-generated: "2024-02-21T09:51:46.566224993Z"
+generated: "2024-02-21T10:19:38.834430289Z"
