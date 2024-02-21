@@ -48,6 +48,21 @@ entries:
     version: 0.3.1
   crash-alert:
   - apiVersion: v2
+    appVersion: 0.3.3
+    created: "2024-02-21T09:51:46.567693321Z"
+    description: Crash Alert
+    digest: 10d41b90fe011e33a2f9f1cd5b1a4e7a200d6f8780d724e6f182e00a13e627a8
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: crash-alert
+    type: application
+    urls:
+    - https://charts.slums.io/crash-alert-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
     appVersion: 0.3.2
     created: "2024-02-20T17:01:28.760544639Z"
     description: Crash Alert
@@ -243,4 +258,4 @@ entries:
     urls:
     - https://charts.slums.io/cron-cleaner-0.2.0.tgz
     version: 0.2.0
-generated: "2024-02-20T17:01:28.760115325Z"
+generated: "2024-02-21T09:51:46.566224993Z"
