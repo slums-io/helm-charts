@@ -48,6 +48,21 @@ entries:
     version: 0.3.1
   blast-alert:
   - apiVersion: v2
+    appVersion: 1.4.0
+    created: "2026-04-13T15:45:22.869451675Z"
+    description: Blast Alert
+    digest: 0612415f3bcd700da1175a0f5e04b39fac9d55f9ee326cf452d2534dfbc284c4
+    icon: https://avatars.githubusercontent.com/u/122676042
+    maintainers:
+    - email: info@slums.io
+      name: Slums.io
+      url: https://slums.io
+    name: blast-alert
+    type: application
+    urls:
+    - https://charts.slums.io/blast-alert-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v2
     appVersion: 1.3.0
     created: "2026-04-13T07:42:47.812123846Z"
     description: Blast Alert
@@ -559,4 +574,4 @@ entries:
     urls:
     - https://charts.slums.io/cron-cleaner-0.2.0.tgz
     version: 0.2.0
-generated: "2026-04-13T07:42:47.811572801Z"
+generated: "2026-04-13T15:45:22.869008327Z"
